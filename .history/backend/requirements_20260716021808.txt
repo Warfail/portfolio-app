@@ -1,0 +1,12 @@
+pip install fastapi==0.100.1
+pip install uvicorn==0.24.0
+pip install pydantic==1.10.13
+pip install python-multipart==0.0.6
+pip install sqlalchemy==2.0.23
+pip install pymysql==1.1.0
+pip install python-dotenv==1.0.0
+pip install cloudinary==1.36.0
+pip install resend==0.7.0
+pip install python-jose[cryptography]==3.3.0
+pip install passlib[bcrypt]==1.7.4
+pip install python-dateutil==2.8.2
